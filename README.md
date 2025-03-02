@@ -20,7 +20,7 @@ Düzenle
 pip install -r requirements.txt
 OpenWeatherMap API anahtarınızı ekleyin
 config.py dosyasına API anahtarınızı girin.
-📊 Kullanım
+ Kullanım
 Python betiğini çalıştırarak hava durumu verilerini alın:
 nginx
 Kopyala
@@ -42,6 +42,6 @@ Eğer projeye katkıda bulunmak istersen:
 
 Depoyu fork'la
 Yeni bir özellik ekleyerek PR (Pull Request) aç
-📜 Lisans
+ Lisans
 Bu proje MIT Lisansı ile lisanslanmıştır.
 
