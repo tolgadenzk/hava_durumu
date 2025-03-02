@@ -10,8 +10,8 @@ Bu proje, OpenWeatherMap API kullanarak belirli şehirlerin hava durumu verileri
 
  Kurulum
 	1.	Projeyi klonlayın
- git clone https://github.com/tolgadenzk/hava_durumu.git
-cd hava_durumu
+ '''git clone https://github.com/tolgadenzk/hava_durumu.git
+cd hava_durumu'''
 
 
 2.	Gerekli kütüphaneleri yükleyin
